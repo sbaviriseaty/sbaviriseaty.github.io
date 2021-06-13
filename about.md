@@ -1,18 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+permalink: /about
+title: Introduction
+description: The Past, the Present, & the Future.
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am a rising senior studying biomedical engineering at the University of Florida. I hope to enroll in the NIH postbaccalaureate IRTA program to pursue more research focusing on the intersection between healthcare and machine learning. During my subsequent master's, I would to take coursework on the ethical dimensions of intertwining the two and the basis of socially-aware algorithm design. Ultimately, I’d like to move into an industry position with a focus on diabetes technology.
