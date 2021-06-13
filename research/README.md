@@ -1,7 +1,5 @@
 ---
-permalink: /research
 title: Research
-description: Making a Change
 layout: page
 ---
 Over the years, I’ve had the opportunity to work on a number of incredible research experiences that have allowed me to grow and develop my skills and passions. Go ahead and explore; I hope you’ll enjoy viewing my experiences as much as I enjoyed working on them.

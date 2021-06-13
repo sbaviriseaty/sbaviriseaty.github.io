@@ -1,8 +1,5 @@
 ---
 layout: home
-permalink: /
-title: Sruthika Baviriseaty
-description: Welcome to my corner of the Internet.
 ---
 
 Hi, I'm Sruthika, a rising senior at UF, from Tampa, FL. 
