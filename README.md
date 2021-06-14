@@ -9,3 +9,10 @@ Add to post.html
     {%- include links_to_prev_next.html -%}
   {%- endif -%}
 ```
+
+update time to read formatting
+
+TO-DO
+- [Add favicon](https://github.com/pages-themes/cayman/issues/93)
+- Change front page to default to site title (rather than page title)
+- [Modify navigation](https://jekyllrb.com/tutorials/navigation)

@@ -2,6 +2,7 @@
 permalink: /involvements
 title: Involvements
 description: Outside the Classroom
+layout: page
 ---
 
 ## Employment

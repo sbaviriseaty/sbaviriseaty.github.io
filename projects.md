@@ -1,13 +1,10 @@
 ---
 permalink: /projects
 title: Projects
-description: Making my 
 layout: page
 ---
 Over the years, I’ve had the opportunity to work on a number of incredible projects that have allowed me to grow and develop my skills and passions. Go ahead and explore; I hope you’ll enjoy viewing my projects as much as I enjoyed working on them.
-
 ## Biomedical Engineering
-
 ### Transcranial Doppler Headset Design for Real-time Continuous Brain Monitoring
 #### Mar 2021 – Apr 2021
 
