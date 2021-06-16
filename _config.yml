@@ -51,8 +51,13 @@ minima:
 # - about.md
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+collections:
+  project_ideas:
+    output: true
+    sort_by: title
