@@ -1,30 +1,18 @@
 ---
-permalink: /involvements
-title: Involvements
-layout: page
-published: true
+layout: post
+title: "UFDI"
+author:
+- Bart Simpson
+- Nelson Mandela Muntz
+tags: college diabetes
 ---
-
-## Employment
-### Axogen
-#### Regulatory Affairs Intern
-
-##### May 2021 - August 2021
-### UF Department of Engineering Education
-#### Teaching Assistant/Peer Mentor for Computer Programming for Engineers (MATLAB)
-
-##### January 2020 - August 2020
-## Extracurricular
-### UF Diabetes Institute
-
-#### Student Ambassador
 
 <h2>Responsive Image Gallery</h2>
 <h4>Resize the browser window to see the effect.</h4>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="Sruthika.jpg">
+    <a target="_blank">
       <img src="Sruthika.jpg" alt="Cinque Terre" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>

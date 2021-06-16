@@ -58,6 +58,6 @@ plugins:
  - jekyll-seo-tag
 
 collections:
-  project_ideas:
+  projects:
     output: true
     sort_by: title
